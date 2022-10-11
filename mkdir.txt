@@ -1,0 +1,2 @@
+command:mkdir
+uses: to create new directory
